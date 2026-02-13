@@ -16,7 +16,10 @@
       "Bash(ls:*)",
       "Bash(git branch:*)",
       "Bash(git config:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git stash pop:*)",
+      "Bash(git stash drop:*)",
+      "WebSearch"
     ]
   }
 }
