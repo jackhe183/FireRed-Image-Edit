@@ -1,3 +1,7 @@
+原项目地址：https://github.com/FireRedTeam/FireRed-Image-Edit</br>
+本仓库仅作个人学习用途</br>
+
+
 <p align="center">
     <img src="./assets/logo.png" width="600"/>
 <p> 
