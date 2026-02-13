@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv:*)",
+      "Bash(git add:*)",
+      "Bash(del:*)",
+      "Bash(git commit:*)",
+      "Bash(gh:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(ssh:*)",
+      "Bash(dir:*)",
+      "Bash(git lfs:*)",
+      "Bash(git rm:*)",
+      "Bash(ls:*)",
+      "Bash(git branch:*)",
+      "Bash(git config:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}
